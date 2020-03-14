@@ -1,0 +1,51 @@
+/* quote commenting in css*/
+.title{
+    color: crimson;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.external{
+    color: red;
+    font-size: 40px;
+}
+#first{
+    color: rgba(138, 241, 21, 0.8);
+}
+#second{
+    color: #ff6a00;
+}
+/*borders and padding*/
+.border{
+    color: red;
+    border: 1px solid dodgerblue;
+    padding: 30px;
+    margin: 30px;
+}
+div{
+    background-color: lightseagreen;
+}
+dl{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0em;
+    margin-right: 0em;
+}
+/*span*/
+
+.new{
+    font-size: 20px;
+    color: red;
+}
+/*two class on one segment*/
+.city{
+    background-color: dodgerblue;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main{
+    text-align: center;
+}
